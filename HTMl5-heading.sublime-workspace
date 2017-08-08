@@ -1,0 +1,921 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"btn",
+				"btnYouPayThenTotalAsc	(index-array.html)"
+			],
+			[
+				"text",
+				"textarea	<textarea>"
+			],
+			[
+				"doc",
+				"docHeight"
+			],
+			[
+				"load",
+				"loadView	(mvc.js)"
+			],
+			[
+				"call",
+				"callbackFail"
+			],
+			[
+				"this",
+				"thisAppRoot"
+			],
+			[
+				"border-top-",
+				"border-top-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fa",
+				"failResponse"
+			],
+			[
+				"succ",
+				"successResponse"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"backgor",
+				"background-color"
+			],
+			[
+				"init",
+				"initWindowResize"
+			],
+			[
+				"Mesh",
+				"THREE.MeshFaceMaterial"
+			],
+			[
+				"We",
+				"THREE.WebGLRenderer"
+			],
+			[
+				"scrip",
+				"scripts	(gulpfile.js)"
+			],
+			[
+				"backgorund",
+				"background-repeat"
+			],
+			[
+				"re",
+				"@requires	JsDoc"
+			],
+			[
+				"animate",
+				"animateElement	(guidify.js)"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"deta",
+				"detailsTemplate"
+			],
+			[
+				"sample",
+				"sample_demo_details_images"
+			],
+			[
+				"html",
+				"htmlOut"
+			],
+			[
+				"outterl",
+				"outterloop"
+			],
+			[
+				"item",
+				"itemTemplate"
+			],
+			[
+				"headert",
+				"headerTemplate"
+			],
+			[
+				"app",
+				"appendTo"
+			],
+			[
+				"def",
+				"defferedAjax"
+			],
+			[
+				"partial",
+				"partialFile"
+			],
+			[
+				"these",
+				"theseTemplates"
+			],
+			[
+				"type",
+				"typeface_item"
+			],
+			[
+				"bloc",
+				"block"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"border-right-",
+				"border-right-width"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"border-bottom-",
+				"border-bottom-width"
+			],
+			[
+				"conten",
+				"contentTemplate"
+			],
+			[
+				"row",
+				"rowid"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"border-rad",
+				"border-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"conte",
+				"contentTemplate"
+			],
+			[
+				"header",
+				"headerTemplate"
+			],
+			[
+				"sec",
+				"sectionId"
+			],
+			[
+				"index",
+				"index2"
+			],
+			[
+				"border-left-r",
+				"border-top-left-radius"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"typeface",
+				"typeface_header"
+			],
+			[
+				"render",
+				"render_siteInfo"
+			],
+			[
+				"site",
+				"site_config"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"info",
+				"info_item"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"browser",
+				"browserSync"
+			],
+			[
+				"ion-side",
+				"ion-side-menu-content	Ionic Extension"
+			],
+			[
+				"ion-view",
+				"ion-nav-view	Ionic Extension"
+			],
+			[
+				"ion-nav-",
+				"ion-nav-back-button	Ionic Extension"
+			],
+			[
+				"to",
+				"toIndex"
+			],
+			[
+				"Note",
+				"NoteStore"
+			],
+			[
+				"ion-re",
+				"ion-reorder-button	Ionic Extension"
+			],
+			[
+				"strongs",
+				"strongs_result"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"strong",
+				"strongs_search"
+			],
+			[
+				"ion-nav",
+				"ion-nav-back-button	Ionic Extension"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"sory",
+				"story_url"
+			],
+			[
+				"ng-bind",
+				"ng-bind-html	AngularJS"
+			],
+			[
+				"ionic",
+				"ionic-card	Ionic Card"
+			],
+			[
+				"ion",
+				"ionic-card-list	Ionic List Card"
+			],
+			[
+				"Redd",
+				"RedditCtrl	(app.js)"
+			],
+			[
+				"local",
+				"localStorageService"
+			],
+			[
+				"search",
+				"searchRadius"
+			],
+			[
+				"zip",
+				"zipCode"
+			],
+			[
+				"sear",
+				"searchRadius"
+			],
+			[
+				"sea",
+				"searchRadius"
+			],
+			[
+				"listing",
+				"listingsPerPage	(app.js)"
+			],
+			[
+				"listings",
+				"listingsPerPage"
+			],
+			[
+				"play",
+				"playlist"
+			],
+			[
+				"List",
+				"ListingsSrvc"
+			],
+			[
+				"border-top-r",
+				"border-top-right-radius"
+			],
+			[
+				"border-top-ra",
+				"border-top-left-radius"
+			],
+			[
+				"border-",
+				"border-left"
+			],
+			[
+				"verti",
+				"vertical-align"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"background-",
+				"background-position"
+			],
+			[
+				"full",
+				"fullScreen"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"page",
+				"page_uri"
+			],
+			[
+				"current",
+				"currentPath"
+			],
+			[
+				"border-bottom",
+				"border-bottom"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"backgorun",
+				"background-color"
+			],
+			[
+				"pa",
+				"patch_string"
+			],
+			[
+				"patch",
+				"patch_manifest"
+			],
+			[
+				"sess",
+				"session_token"
+			],
+			[
+				"sele",
+				"selected_article"
+			],
+			[
+				"arti",
+				"article_data"
+			],
+			[
+				"art",
+				"article_search_field"
+			],
+			[
+				"te",
+				"text	(ep.css)"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"bottom",
+				"border-bottom"
+			],
+			[
+				"selec",
+				"selectedTitleFont"
+			],
+			[
+				"Sl",
+				"Slabo"
+			],
+			[
+				"Cin",
+				"CinzelDecorative"
+			],
+			[
+				"Fan",
+				"FanwoodText"
+			],
+			[
+				"Sq",
+				"SquadaOne"
+			],
+			[
+				"Fre",
+				"FredokaOne"
+			],
+			[
+				"Alf",
+				"AlfaSlabOne"
+			],
+			[
+				"Crete",
+				"CreteRound"
+			],
+			[
+				"Pat",
+				"PatuaOne"
+			],
+			[
+				"Pass",
+				"PassionOne"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"diveLog",
+				"diveLogApi"
+			],
+			[
+				"dive",
+				"diveLogApi"
+			],
+			[
+				"yw",
+				"ywMenuId"
+			],
+			[
+				"menu",
+				"menuElement"
+			],
+			[
+				"act",
+				"activeTitle"
+			],
+			[
+				"active",
+				"activeMenuId"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "gis",
+		"selected_items":
+		[
+			[
+				"gis",
+				"Gist: Insert Gist"
+			],
+			[
+				"p a",
+				"Package Control: Install Package"
+			],
+			[
+				"g",
+				"Gist: Insert Gist"
+			],
+			[
+				"p i",
+				"Package Control: Install Package"
+			],
+			[
+				"gi",
+				"Gist: Insert Gist"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"i p",
+				"Package Control: Install Package"
+			],
+			[
+				" gi",
+				"Gist: Insert Gist"
+			],
+			[
+				"g i",
+				"Gist: Insert Gist"
+			],
+			[
+				"orig",
+				"Origami: Clone File to Pane Below"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"p r",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 542.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/projects/HTML5-Heading",
+		"/C/projects/HTML5-Heading/site",
+		"/C/projects/HTML5-Heading/site/scripts"
+	],
+	"file_history":
+	[
+		"/C/projects/HTML5-Heading/package.json",
+		"/C/projects/HTML5-Heading/site/index.html",
+		"/C/projects/HTML5-Heading/site/scripts/main.js",
+		"/C/projects/_BASE-GULP-PROJECT/readme.txt.txt",
+		"/C/projects/ARIA-WebApp/index.html",
+		"/C/projects/_BASE-GULP-PROJECT/gulpfile.js",
+		"/C/projects/_BASE-GULP-PROJECT/package.json",
+		"/C/projects/_BASE-GULP-PROJECT/site/index.html",
+		"/C/projects/iFrameResize/site/index.html",
+		"/C/projects/iFrameResize/site/scripts/main.js",
+		"/C/projects/ARIA-WebApp/styles/main.css",
+		"/C/projects/ARIA-WebApp/scripts/main.js",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1467919980/enginpost.json/public_html/.htaccess",
+		"/C/Users/atw0812d/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/projects/iFrameResize/site/styles/arrays.css",
+		"/C/projects/iFrameResize/site/scripts/arrays.js",
+		"/C/projects/iFrameResize/site/index-array.html",
+		"/C/projects/iFrameResize/site/styles/main.css",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1465831176/enginpost.json/public_html/_subdomains/resume/sample.html",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1465830717/enginpost.json/public_html/_subdomains/resume/index.html",
+		"/C/projects/epmvc/site/scripts/plugins/ep/jquery.ep-mvc.js",
+		"/C/projects/epmvc/site/scripts/controllers/navigation.controller.js",
+		"/C/projects/epmvc/site/index.html",
+		"/C/projects/epmvc/site/scripts/app.js",
+		"/C/projects/jsMVC/source/site/scripts/controllers/home.controller.js",
+		"/C/projects/jsMVC/source/site/scripts/views/login.view.html",
+		"/C/projects/jsMVC/source/site/scripts/views/login.view.html.js",
+		"/C/projects/dealership/site/scripts/dealership.js",
+		"/C/projects/jsMVC/source/site/scripts/views/user.view.html",
+		"/C/projects/jsMVC/source/site/scripts/main.js",
+		"/C/projects/jsMVC/source/site/index.html",
+		"/C/projects/epmvc/site/scripts/views/my_template.partial.html",
+		"/C/projects/epmvc/site/scripts/views/another_template.partial.html",
+		"/C/projects/jsMVC/source/site/scripts/libraries/mvc/epmvc.js",
+		"/C/projects/jsMVC/source/site/scripts/utilities/mvc.js",
+		"/C/projects/jsMVC/source/site/scripts/libraries/mvc/epMVC.js",
+		"/C/projects/jsMVC/source/site/styles/main.css",
+		"/C/projects/jsMVC/source/site/scripts/views/home.view.html",
+		"/C/projects/dealership/site/scripts/templateLoader.js",
+		"/C/projects/jsMVC/source/gulp/package.json",
+		"/C/projects/jsMVC/source/gulp/gulpfile.js",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463414760/enginpost.json/public_html/_subdomains/todooz/themes/goalish_theme/templates/field--node--body--quote.html.twig",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463416789/enginpost.json/public_html/_subdomains/todooz/themes/goalish_theme/templates/field--node--body--goal.html.twig",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463417106/enginpost.json/public_html/_subdomains/todooz/themes/goalish_theme/templates/field--node--field-percentage-complete--goal.html.twig",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463420605/enginpost.json/public_html/_subdomains/todooz/themes/goalish_theme/templates/node--recipe--teaser.html.twig",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463420647/enginpost.json/public_html/_subdomains/todooz/themes/bootstrap/templates/node/node.html.twig",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463414508/enginpost.json/public_html/_subdomains/todooz/themes/goalish_theme/css/style.css",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463414831/enginpost.json/public_html/_subdomains/todooz/themes/bootstrap/templates/field/field.html.twig",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463169074/enginpost.json/public_html/_subdomains/goalish/themes/goalish_theme/css/style.css",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463085708/enginpost.json/public_html/_subdomains/goalish/sites/development.services.yml",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463086019/enginpost.json/public_html/_subdomains/goalish/sites/default/settings.local.php",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463086290/enginpost.json/public_html/_subdomains/goalish/sites/default/settings.php",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463091294/enginpost.json/public_html/_subdomains/goalish/themes/goalish_theme/templates/views-view-field.html.twig",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463091189/enginpost.json/public_html/_subdomains/goalish/themes/goalish_theme/templates/views-view-field.html.twig",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463091009/enginpost.json/public_html/_subdomains/goalish/themes/goalish_theme/templates/views-view-grid--my_goals--block_user_profile--field_percentage_complete.html.twig",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463090920/enginpost.json/public_html/_subdomains/goalish/themes/goalish_theme/templates/views-view-grid--my_goals--block_1--field_percentage_complete.html.twig",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463090477/enginpost.json/public_html/_subdomains/goalish/themes/goalish_theme/templates/views-view-grid--my_goals--views_block__my_goals_block_user_profile--field_percentage_complete.html.twig",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463090277/enginpost.json/public_html/_subdomains/goalish/themes/goalish_theme/templates/views-view-grid--my_goals--block_user_profile--field_percentage_complete.html.twig",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463089854/enginpost.json/public_html/_subdomains/goalish/themes/goalish_theme/templates/views-view-grid--views_block__my_goals_block_user_profile--block--field_percentage_complete.html.twig",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463089517/enginpost.json/public_html/_subdomains/goalish/themes/goalish_theme/templates/views-view-field--views_block__my_goals_block_user_profile--field_percentage_complete.html.twig",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463089394/enginpost.json/public_html/_subdomains/goalish/themes/goalish_theme/templates/views-view-fields--views_block__my_goals_block_user_profile--field_percentage_complete.html.twig",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463089256/enginpost.json/public_html/_subdomains/goalish/themes/goalish_theme/templates/views-view-grid--views_block__my_goals_block_user_profile--field_percentage_complete.html.twig",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463085561/enginpost.json/public_html/_subdomains/goalish/sites/default/settings.local.php",
+		"//navitus.local/navitus/Home/atw0812d/Desktop/settings.local.php",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463070699/enginpost.json/public_html/_subdomains/goalish/sites/development.services.yml",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463080694/enginpost.json/public_html/sites/default/settings.php",
+		"//navitus.local/navitus/Home/atw0812d/Desktop/settings.php",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463070208/enginpost.json/public_html/_subdomains/goalish/sites/default/settings.php",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463068864/enginpost.json/public_html/_subdomains/goalish/themes/goalish_theme/css/style.css",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463069677/enginpost.json/public_html/_subdomains/goalish/sites/default/settings.php",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463069534/enginpost.json/public_html/_subdomains/goalish/sites/default/settings.php",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1463069417/enginpost.json/public_html/_subdomains/goalish/sites/default/settings.php",
+		"/C/projects/geolocation/source/site/index2.html",
+		"/L/Shared/Web Development Team/CPT-Front End/site/scripts/cpt.pharmacies.js",
+		"/L/Shared/Web Development Team/CPT-Front End/site/scripts/cptUtility.js",
+		"/C/projects/geolocation/source/site/data/file1.json",
+		"/C/projects/geolocation/source/site/data/file2.json",
+		"/C/projects/geolocation/source/site/data/file3.json",
+		"/C/projects/geolocation/source/site/index.html",
+		"/C/projects/geolocation/source/site/scripts/main.js",
+		"/L/Shared/Web Development Team/CPT-Front End/site/scripts/templateLoader.js",
+		"//navitus.local/navitus/Home/atw0812d/Desktop/90210.html",
+		"/C/projects/geolocation/source/site/scripts/jquery.jsonp.js",
+		"/L/Shared/Web Development Team/CPT-Front End/site/scripts/main.js",
+		"/C/projects/dealership-material-design/site/scripts/material-design.js",
+		"/L/Shared/Web Development Team/_Team/Nick Smith/Code Sample/MapQuestInitialize.js",
+		"/L/Shared/Web Development Team/_Team/Nick Smith/Code Sample/mapManager.js",
+		"/C/projects/geolocation/source/gulp/package.json",
+		"/C/projects/blender/ep/gulp/gulpfile.js",
+		"/C/projects/geolocation/source/gulp/gulpfile.js",
+		"/C/projects/blender/ep/gulp/package.json",
+		"/C/projects/blender/ep/site/styles/main.css",
+		"/C/projects/blender/ep/site/index.html",
+		"/C/projects/blender/ep/site/scripts/ep.js",
+		"/C/Users/atw0812d/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"//navitus.local/navitus/Home/atw0812d/Desktop/_sublime/Package Control.sublime-settings",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1459265187/enginpost.json/public_html/themes/custom/epft/static/css/epft.css",
+		"/L/Shared/Web Development Team/_Research and Development/Balsamiq-to-PhotoShop-to-Web/page/index.html",
+		"/C/Users/atw0812d/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/enginpost.json",
+		"/L/Shared/Web Development Team/_Research and Development/Balsamiq-to-PhotoShop-to-Web/styles.css",
+		"/C/projects/epmvc/site/scripts/plugins/ep/templateLoader.js",
+		"//navitus.local/navitus/Home/atw0812d/Desktop/dealership.js",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1456945794/enginpost.json/public_html/themes/custom/epft/static/css/epft.css",
+		"/C/Users/atw0812d/Downloads/sslaccesslog_enginpost.com_3_2_2016.gz",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1456945170/enginpost.json/public_html/themes/custom/epft/static/css/epft.css",
+		"/C/users/atw0812d/appdata/local/temp/sublime-sftp-browse-1456945098/enginpost.json/public_html/themes/custom/epft/static/css/ep-jssor.css",
+		"/C/projects/style-guide/src/scripts/guidify.js",
+		"/C/projects/style-guide/src/templates/sample_demo.partial.html",
+		"/C/projects/style-guide/src/scripts/site.json",
+		"/C/projects/style-guide/src/styles/guidify.css",
+		"/C/projects/style-guide/src/index.html",
+		"/C/projects/style-guide/src/templates/style_set.partial.html",
+		"/C/projects/style-guide/src/templates/sample_demo_details_colors.partial.html",
+		"/C/projects/style-guide/src/templates/sample_demo_details_images.partial.html",
+		"/C/projects/style-guide/src/templates/typeface_item.partial.html",
+		"/C/projects/style-guide/src/templates/sample_demo_details_fonts.partial.html",
+		"/C/projects/style-guide/src/scripts/years.json",
+		"/C/projects/style-guide/src/scripts/dealership-results.json",
+		"/C/projects/style-guide/src/scripts/dealerships.json",
+		"/C/projects/style-guide/src/scripts/models.json",
+		"/C/projects/style-guide/src/scripts/makes.json",
+		"/C/projects/style-guide/src/scripts/cars.json",
+		"/C/projects/style-guide/src/scripts/dealderships.json",
+		"/C/projects/style-guide/src/templates/typeface_details.partial.html",
+		"/C/projects/style-guide/src/templates/colorset_details.partial.html",
+		"/C/projects/style-guide/src/templates/colorset_item.partial.html",
+		"/C/projects/style-guide/src/templates/image_item.partial.html",
+		"/C/projects/style-guide/src/templates/image_version.partial.html"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".",
+			"pre",
+			"thisForegroundColor",
+			"{{menuTextColor details.color_hex /}}",
+			"menuTextColor",
+			"menuBackgroundColor",
+			"section_",
+			"pc",
+			"pn",
+			"definition",
+			"sizes",
+			"fonts",
+			"theseTypefaces",
+			"\"Packages/Material Theme/schemes/Material-Theme.tmTheme\"",
+			"content",
+			"img",
+			"cursor",
+			"session_token",
+			"$",
+			"easy",
+			"easyAutocomplete",
+			"$",
+			". '/settings.local.php",
+			"debug",
+			"twig",
+			"%",
+			"});\n",
+			"enable",
+			"Zend",
+			"apc",
+			"xdebug.max_nesting_level",
+			"src",
+			"removeComments",
+			"builds/development/",
+			"d8beta",
+			"lint"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 64.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 138.0
+	},
+	"pinned_build_system": "",
+	"project": "HTMl5-heading.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 155.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

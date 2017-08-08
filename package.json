@@ -1,0 +1,16 @@
+{
+  "name": "sample_project",
+  "version": "1.0.0",
+  "description": "a gulp project",
+  "main": "site/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
